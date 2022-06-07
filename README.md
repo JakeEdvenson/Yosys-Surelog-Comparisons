@@ -20,3 +20,4 @@ Comparisons I've performed between Yosys-processed verilog files and Surelog-pro
 | alu | byu | **No** | Needs to be researched. |
 | oneshot | byu | **No** | Needs to be researched. |
 | seven_segment | byu | **No** | Needs to be researched. |
+| regfile | bugs | **No** | Needs to be researched. 
