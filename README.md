@@ -18,6 +18,8 @@ Comparisons I've performed between Yosys-processed verilog files and Surelog-pro
 | bram_dp_sclk | basic (not included) | **No** | Crashes Yosys when testing equivalence. |
 | bram_sp_wf | basic (not included) | **No** | Crashes Yosys when testing equivalence. |
 | alu | byu | **No** | Needs to be researched. |
+| buttoncount | byu | **No** | Needs to be researched. |
+| calc | byu | **No** | Needs to be researched. |
 | oneshot | byu | **No** | Needs to be researched. |
 | seven_segment | byu | **No** | Needs to be researched. |
 | regfile | bugs | **No** | Needs to be researched. 
